@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ForegroundBackgroundHandle</string>
+
+    <!--MainActivity Hints-->
+    <string name="tv_text_main_activity">Main Activity</string>
+    <string name="btn_text_next">Next</string>
+    <!--End of MainActivity Hints-->
+
+    <!--SecondActivity Hints-->
+    <string name="tv_text_second_activity">Second Activity</string>
+    <!--End of SecondActivity Hints-->
+
+</resources>
